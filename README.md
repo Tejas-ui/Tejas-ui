@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tejas
-- 👀 I’m interested in ...React js , Java Script , 
-- 🌱 I’m currently learning ...Front End Web Applications
-- 💞️ I’m looking to collaborate on ...Java Script
+- 👀 I’m interested in ...Web Technologies,CRM,Salesforce,Marketing Cloud
+- 🌱 I’m currently learning ...HTML,CSS,JavaScript
+- 💞️ I’m looking to collaborate on ...HTML,CSS,Java Script
 - 📫 How to reach me ...Github
 
